@@ -12269,11 +12269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\O.Lakrouz\\source\\repos\\WebApi10\\WebApi10\\WebApi10.csproj",
+      "projectUniqueName": "\\\\sv-don\\etudiantsFC$\\O.Lakrouz\\Documents\\Mise en oeuvre d un projet\\GitProjects\\Projet2\\projet-GitHub\\WebApi10.csproj",
       "projectName": "WebApi10",
-      "projectPath": "C:\\Users\\O.Lakrouz\\source\\repos\\WebApi10\\WebApi10\\WebApi10.csproj",
+      "projectPath": "\\\\sv-don\\etudiantsFC$\\O.Lakrouz\\Documents\\Mise en oeuvre d un projet\\GitProjects\\Projet2\\projet-GitHub\\WebApi10.csproj",
       "packagesPath": "C:\\Users\\O.Lakrouz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\O.Lakrouz\\source\\repos\\WebApi10\\WebApi10\\obj\\",
+      "outputPath": "\\\\sv-don\\etudiantsFC$\\O.Lakrouz\\Documents\\Mise en oeuvre d un projet\\GitProjects\\Projet2\\projet-GitHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
